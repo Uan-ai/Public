@@ -1,4 +1,4 @@
-# wabot-aq
+# Nazuantzy
 Simple WhatsApp Bot
 
 ### FOR TERMUX USER
